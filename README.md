@@ -1,6 +1,6 @@
-# firebase_test
+# Lista
 
-A new Flutter project.
+A basic listing app
 
 ## Getting Started
 
